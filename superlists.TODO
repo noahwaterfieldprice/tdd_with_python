@@ -1,0 +1,13 @@
+Superlists Scratchpad:
+
+Chapter 5 to do:
+    ✔ Don't save blank items for every request @done (15-06-18 22:24)
+    ✔ Code smell: POST test is too long? @done (15-06-18 22:25)
+    ✔ Display multiple items in the table @done (15-06-18 22:25)
+    ✘ Support more than one list @cancelled (15-06-18 22:26)
+Chapter 6 to do:
+    ✔ Get FTs to clean up after themselves @done (15-06-18 22:27)
+    ☐ Adjust model so that items are associated with different lists
+    ☐ Add unique URLS for each list
+    ☐ Add a URL for creating a new list via POST
+    ☐ Add URLS for creating a new item to an existing list via POST
