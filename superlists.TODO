@@ -7,7 +7,8 @@ Chapter 5 to do:
     ✘ Support more than one list @cancelled (15-06-18 22:26)
 Chapter 6 to do:
     ✔ Get FTs to clean up after themselves @done (15-06-18 22:27)
-    ☐ Adjust model so that items are associated with different lists
-    ☐ Add unique URLS for each list
-    ☐ Add a URL for creating a new list via POST
-    ☐ Add URLS for creating a new item to an existing list via POST
+    ✔ Adjust model so that items are associated with different lists @done (15-06-23 23:17)
+    ✔ Add unique URLS for each list @done (15-06-23 23:50)
+    ✔ Add a URL for creating a new list via POST @done (15-06-23 22:56)
+    ✔ Add URLS for creating a new item to an existing list via POST @done (15-06-24 00:12)
+    ☐ Refactor away some duplication in urls.py
