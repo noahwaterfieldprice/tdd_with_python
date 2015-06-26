@@ -76,8 +76,8 @@ class NewVisitorTest(StaticLiveServerTestCase):
 
         # Now a new user, Francis comes to the site.
 
-        ## We use a new browser session to make sure that no information
-        ## of Edith's is coming from cookies etc
+        # - We use a new browser session to make sure that no information
+        # - of Edith's is coming from cookies etc
         self.browser.quit()
         self.browser = webdriver.Firefox()
 
