@@ -14,3 +14,4 @@ Chapter 6 to do:
     ☐ Refactor away some duplication in urls.py
 Chapter 10 to do:
  ☐ Remove hardcoded URLs from views.py
+ ☐ Remove hardcoded URLs from froms in list.html and home.html
