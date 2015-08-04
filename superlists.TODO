@@ -12,3 +12,5 @@ Chapter 6 to do:
     ✔ Add a URL for creating a new list via POST @done (15-06-23 22:56)
     ✔ Add URLS for creating a new item to an existing list via POST @done (15-06-24 00:12)
     ☐ Refactor away some duplication in urls.py
+Chapter 10 to do:
+ ☐ Remove hardcoded URLs from views.py
